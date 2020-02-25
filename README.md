@@ -1,1 +1,1 @@
-# OgrenciBilgiSistemi
+# Öğrenci Bilgi Sistemi
